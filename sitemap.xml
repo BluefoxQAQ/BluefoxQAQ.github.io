@@ -4,7 +4,16 @@
   <url>
     <loc>http://example.com/2023/01/07/test/</loc>
     
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/caregories/index.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,12 +31,19 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-01-07</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
 
+  
+  <url>
+    <loc>http://example.com/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
