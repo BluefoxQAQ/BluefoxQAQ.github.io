@@ -1,5 +1,10 @@
+http://example.com/2023/01/10/blog%E8%AE%BE%E7%BD%AE/
+http://example.com/2023/01/10/word/
+http://example.com/2023/01/09/mysql/
+http://example.com/categories/index.html
 http://example.com/2023/01/07/test/
-http://example.com/caregories/index.html
 http://example.com/2023/01/07/hello-world/
 http://example.com/
+http://example.com/categories/blog/
+http://example.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/
 http://example.com/categories/web%E5%89%8D%E7%AB%AF/
